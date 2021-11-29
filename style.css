@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+.imgs {
+    height: 1000%;
+    width: 500px;
+}
+
+#topic_lines {
+    margin: 5000;
+    text-decoration: dotted;
+}
